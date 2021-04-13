@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Falcn8 aka `H Ξ X V G 0 И`
+## I am Falcn8 aka H Ξ X V G 0 И
 
 [![Falcn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Falcn8)](https://github.com/Falcn8)
 
