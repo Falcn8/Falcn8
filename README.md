@@ -3,6 +3,7 @@
 ## I am Falcn8 aka H Ξ X V G 0 И
 
 [![Falcn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Falcn8)](https://github.com/Falcn8)
+[My Year on Netlify](https://your-year-on.netlify.com/falcn8/e0d3ead2f424)
 
 - 💪 I use **Python, C++, HTML, CSS, JavaScript, and Markdown**
 - 🔭 I’m currently working on [**Alti**](https://alti.gq) & [**Koin**](https://falcn8.github.io/koin) & [**Pyxel**](https://github.com/kitao/pyxel)
