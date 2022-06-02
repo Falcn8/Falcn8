@@ -5,14 +5,12 @@
 ![H Ξ X V G 0 И Discord Stats](https://discord.c99.nl/widget/theme-4/710698624891224135.png)
 [![Falcn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Falcn8)](https://github.com/Falcn8)  
 
-[My Year on Netlify](https://your-year-on.netlify.com/falcn8/e0d3ead2f424)
+[My 2021 Github Skyline](https://skyline.github.com/Falcn8/2021)
 
 - 💪 I use **Python, C++, HTML, CSS, JavaScript, and Markdown**
-- 🔭 I’m currently working on [**Alti**](https://alti.gq) & [**Koin**](https://falcn8.github.io/koin) & [**Pyxel**](https://github.com/kitao/pyxel)
-- 🌱 I’m currently learning **Flutter**
-- 👯 I’m looking to collaborate on [**Devixx**](https://devixx.netlify.app)
-- 🤔 I’m looking for help with **NaN**
+- 🔭 I’m currently working on [**Neui**](https://neui.gq)
+- 🌱 I’m currently learning **Vim** & **C++**
+- 👯 I’m looking to collaborate on **anything**!
 - 💬 Ask me about **anything related to discord.py**
 - 📫 How to reach me: **`H Ξ X V G 0 И#0001` on Discord**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **NaN**
