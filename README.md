@@ -12,5 +12,5 @@
 - 🌱 I’m currently learning **Vim** & **C++**
 - 👯 I’m looking to collaborate on **anything**!
 - 💬 Ask me about **anything related to discord.py**
-- 📫 How to reach me: **`H Ξ X V G 0 И#0001` on Discord**
+- 📫 How to reach me: **`H Ξ X V G 0 И#8935` on Discord**
 - 😄 Pronouns: **He/Him**
