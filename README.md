@@ -7,10 +7,10 @@
 
 [My 2021 Github Skyline](https://skyline.github.com/Falcn8/2021)
 
-- 💪 I use **Python, C++, HTML, CSS, JavaScript, and Markdown**
-- 🔭 I’m currently working on [**Neui**](https://neui.gq)
+- 💪 I use **Python, C++, HTML, CSS, JavaScript, and Markdown** (full-stack dev)
+- 🔭 I’m currently working on **CTF** and other **Cybersecurity** stuff
 - 🌱 I’m currently learning **Vim** & **C++**
 - 👯 I’m looking to collaborate on **anything**!
-- 💬 Ask me about **anything related to discord.py**
+- 💬 Ask me about **anything related to discord.py** or **cybersecurity stuff**
 - 📫 How to reach me: **`H Ξ X V G 0 И#8935` on Discord**
 - 😄 Pronouns: **He/Him**
