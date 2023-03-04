@@ -14,3 +14,5 @@
 - 💬 Ask me about **anything related to discord.py** or **cybersecurity stuff**
 - 📫 How to reach me: **`H Ξ X V G 0 И#8935` on Discord**
 - 😄 Pronouns: **He/Him**
+
+<a href="https://www.digitalocean.com/?refcode=971575c40584&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
