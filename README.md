@@ -6,8 +6,9 @@
 [![Falcn8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Falcn8)](https://github.com/Falcn8)  
 
 [My 2021 Github Skyline](https://skyline.github.com/Falcn8/2021)
+[My 2022 Github Skyline](https://skyline.github.com/Falcn8/2022)
 
-- 💪 I use **Python, C++, HTML, CSS, JavaScript, and Markdown** (full-stack dev)
+- 💪 I use **Python, C++, JavaScript, and front-end languages** (full-stack dev)
 - 🔭 I’m currently working on **CTF** and other **Cybersecurity** stuff
 - 🌱 I’m currently learning **Vim** & **C++**
 - 👯 I’m looking to collaborate on **anything**!
