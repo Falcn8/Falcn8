@@ -9,11 +9,12 @@
 [My 2022 Github Skyline](https://skyline.github.com/Falcn8/2022)
 
 - 💪 I use **Python, C++, JavaScript, and front-end languages** (full-stack dev)
-- 🔭 I’m currently working on **CTF** and other **Cybersecurity** stuff
+- 🔭 I’m currently working on **CTF** and other **cybersecurity** stuff
 - 🌱 I’m currently learning **Vim** & **C++**
 - 👯 I’m looking to collaborate on **anything**!
-- 💬 Ask me about **anything related to discord.py** or **cybersecurity stuff**
-- 📫 How to reach me: **`H Ξ X V G 0 И#8935` on Discord**
+- 💬 Ask me about **cybersecurity** stuff especially **web exploitation**!
+- 📫 How to reach me: **`hexagon.one` on Discord** or at [https://hexagon.one/](https://hexagon.one)
 - 😄 Pronouns: **He/Him**
 
+Get a free $200, 60-day credit to try DigitalOcean:  
 <a href="https://www.digitalocean.com/?refcode=971575c40584&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
